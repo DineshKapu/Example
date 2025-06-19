@@ -136,6 +136,36 @@ namespace Day1Csharp
                 Console.WriteLine(x);
             }
 
+
+            public void GotoEg()
+            {
+                Console.WriteLine("First Statement");
+                goto infinite; 
+                Console.WriteLine("second Statement");
+                Console.WriteLine("third Statement");
+             infinite:
+                Console.WriteLine("Infinite welcome all the new Associates");
+                goto label1;
+                Console.WriteLine("you are here..");
+                Console.WriteLine("see you soon");
+            label1:
+                Console.WriteLine("Hello");
+            doagain:
+                Console.WriteLine("enter a number less than 10");
+                int num = Convert.ToInt32(Console.ReadLine());
+                if(num>=10)
+                {
+                    Console.WriteLine("enter the number lees than 10");
+                    goto doagain;
+                }
+                else
+                {
+                    Console.WriteLine(num);
+                }
+                
+                
+
+            }
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Example\Csharp\Day-2\Day2Csharp\Day2Csharp\bin\Debug\Day2Csharp.exe.config
+C:\Example\Csharp\Day-2\Day2Csharp\Day2Csharp\bin\Debug\Day2Csharp.exe
+C:\Example\Csharp\Day-2\Day2Csharp\Day2Csharp\bin\Debug\Day2Csharp.pdb
+C:\Example\Csharp\Day-2\Day2Csharp\Day2Csharp\obj\Debug\Day2Csharp.csproj.AssemblyReference.cache
+C:\Example\Csharp\Day-2\Day2Csharp\Day2Csharp\obj\Debug\Day2Csharp.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\Day-2\Day2Csharp\Day2Csharp\obj\Debug\Day2Csharp.exe
+C:\Example\Csharp\Day-2\Day2Csharp\Day2Csharp\obj\Debug\Day2Csharp.pdb
