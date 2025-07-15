@@ -1,0 +1,11 @@
+C:\Example\Csharp\DesignPatterns\Client_3\Client_3\bin\Debug\Client_3.exe.config
+C:\Example\Csharp\DesignPatterns\Client_3\Client_3\bin\Debug\Client_3.exe
+C:\Example\Csharp\DesignPatterns\Client_3\Client_3\bin\Debug\Client_3.pdb
+C:\Example\Csharp\DesignPatterns\Client_3\Client_3\bin\Debug\SingleTonPattern.exe
+C:\Example\Csharp\DesignPatterns\Client_3\Client_3\bin\Debug\SingleTonPattern.pdb
+C:\Example\Csharp\DesignPatterns\Client_3\Client_3\bin\Debug\SingleTonPattern.exe.config
+C:\Example\Csharp\DesignPatterns\Client_3\Client_3\obj\Debug\Client_3.csproj.AssemblyReference.cache
+C:\Example\Csharp\DesignPatterns\Client_3\Client_3\obj\Debug\Client_3.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\DesignPatterns\Client_3\Client_3\obj\Debug\Client_3.csproj.CopyComplete
+C:\Example\Csharp\DesignPatterns\Client_3\Client_3\obj\Debug\Client_3.exe
+C:\Example\Csharp\DesignPatterns\Client_3\Client_3\obj\Debug\Client_3.pdb

@@ -1,0 +1,7 @@
+C:\Example\Csharp\Day-14\Day14CSharp\Day14CSharp\bin\Debug\Day14CSharp.exe.config
+C:\Example\Csharp\Day-14\Day14CSharp\Day14CSharp\bin\Debug\Day14CSharp.exe
+C:\Example\Csharp\Day-14\Day14CSharp\Day14CSharp\bin\Debug\Day14CSharp.pdb
+C:\Example\Csharp\Day-14\Day14CSharp\Day14CSharp\obj\Debug\Day14CSharp.csproj.AssemblyReference.cache
+C:\Example\Csharp\Day-14\Day14CSharp\Day14CSharp\obj\Debug\Day14CSharp.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\Day-14\Day14CSharp\Day14CSharp\obj\Debug\Day14CSharp.exe
+C:\Example\Csharp\Day-14\Day14CSharp\Day14CSharp\obj\Debug\Day14CSharp.pdb

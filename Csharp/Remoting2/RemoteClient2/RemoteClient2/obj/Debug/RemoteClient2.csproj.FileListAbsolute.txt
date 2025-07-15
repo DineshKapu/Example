@@ -1,0 +1,12 @@
+C:\Example\Csharp\Remoting2\RemoteClient2\RemoteClient2\bin\Debug\RemoteClient2.exe.config
+C:\Example\Csharp\Remoting2\RemoteClient2\RemoteClient2\bin\Debug\RemoteClient2.exe
+C:\Example\Csharp\Remoting2\RemoteClient2\RemoteClient2\bin\Debug\RemoteClient2.pdb
+C:\Example\Csharp\Remoting2\RemoteClient2\RemoteClient2\bin\Debug\InfiniteRemotingServer2.dll
+C:\Example\Csharp\Remoting2\RemoteClient2\RemoteClient2\bin\Debug\InfiniteRemotingServer2.pdb
+C:\Example\Csharp\Remoting2\RemoteClient2\RemoteClient2\obj\Debug\RemoteClient2.Form1.resources
+C:\Example\Csharp\Remoting2\RemoteClient2\RemoteClient2\obj\Debug\RemoteClient2.Properties.Resources.resources
+C:\Example\Csharp\Remoting2\RemoteClient2\RemoteClient2\obj\Debug\RemoteClient2.csproj.GenerateResource.cache
+C:\Example\Csharp\Remoting2\RemoteClient2\RemoteClient2\obj\Debug\RemoteClient2.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\Remoting2\RemoteClient2\RemoteClient2\obj\Debug\RemoteClient2.csproj.CopyComplete
+C:\Example\Csharp\Remoting2\RemoteClient2\RemoteClient2\obj\Debug\RemoteClient2.exe
+C:\Example\Csharp\Remoting2\RemoteClient2\RemoteClient2\obj\Debug\RemoteClient2.pdb

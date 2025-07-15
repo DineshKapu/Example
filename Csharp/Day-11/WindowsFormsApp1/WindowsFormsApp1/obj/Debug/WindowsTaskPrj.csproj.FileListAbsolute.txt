@@ -1,0 +1,10 @@
+C:\Example\Csharp\Day-11\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Example\Csharp\Day-11\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Example\Csharp\Day-11\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Example\Csharp\Day-11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsTaskPrj.csproj.AssemblyReference.cache
+C:\Example\Csharp\Day-11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Example\Csharp\Day-11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Example\Csharp\Day-11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsTaskPrj.csproj.GenerateResource.cache
+C:\Example\Csharp\Day-11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsTaskPrj.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\Day-11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Example\Csharp\Day-11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

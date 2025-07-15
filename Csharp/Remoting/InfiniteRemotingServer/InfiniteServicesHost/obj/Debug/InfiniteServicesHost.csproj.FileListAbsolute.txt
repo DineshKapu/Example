@@ -1,0 +1,10 @@
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteServicesHost\bin\Debug\InfiniteServicesHost.exe.config
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteServicesHost\bin\Debug\InfiniteServicesHost.exe
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteServicesHost\bin\Debug\InfiniteServicesHost.pdb
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteServicesHost\bin\Debug\InfiniteRemotingServer.dll
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteServicesHost\bin\Debug\InfiniteRemotingServer.pdb
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteServicesHost\obj\Debug\InfiniteServicesHost.csproj.AssemblyReference.cache
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteServicesHost\obj\Debug\InfiniteServicesHost.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteServicesHost\obj\Debug\InfiniteServicesHost.csproj.CopyComplete
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteServicesHost\obj\Debug\InfiniteServicesHost.exe
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteServicesHost\obj\Debug\InfiniteServicesHost.pdb

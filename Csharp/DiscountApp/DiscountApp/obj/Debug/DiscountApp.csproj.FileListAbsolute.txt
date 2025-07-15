@@ -1,0 +1,7 @@
+C:\Example\Csharp\DiscountApp\DiscountApp\bin\Debug\DiscountApp.exe.config
+C:\Example\Csharp\DiscountApp\DiscountApp\bin\Debug\DiscountApp.exe
+C:\Example\Csharp\DiscountApp\DiscountApp\bin\Debug\DiscountApp.pdb
+C:\Example\Csharp\DiscountApp\DiscountApp\obj\Debug\DiscountApp.csproj.AssemblyReference.cache
+C:\Example\Csharp\DiscountApp\DiscountApp\obj\Debug\DiscountApp.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\DiscountApp\DiscountApp\obj\Debug\DiscountApp.exe
+C:\Example\Csharp\DiscountApp\DiscountApp\obj\Debug\DiscountApp.pdb

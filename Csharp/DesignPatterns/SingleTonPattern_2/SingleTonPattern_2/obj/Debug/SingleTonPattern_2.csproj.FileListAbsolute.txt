@@ -1,0 +1,7 @@
+C:\Example\Csharp\DesignPatterns\SingleTonPattern_2\SingleTonPattern_2\bin\Debug\SingleTonPattern_2.exe.config
+C:\Example\Csharp\DesignPatterns\SingleTonPattern_2\SingleTonPattern_2\bin\Debug\SingleTonPattern_2.exe
+C:\Example\Csharp\DesignPatterns\SingleTonPattern_2\SingleTonPattern_2\bin\Debug\SingleTonPattern_2.pdb
+C:\Example\Csharp\DesignPatterns\SingleTonPattern_2\SingleTonPattern_2\obj\Debug\SingleTonPattern_2.csproj.AssemblyReference.cache
+C:\Example\Csharp\DesignPatterns\SingleTonPattern_2\SingleTonPattern_2\obj\Debug\SingleTonPattern_2.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\DesignPatterns\SingleTonPattern_2\SingleTonPattern_2\obj\Debug\SingleTonPattern_2.exe
+C:\Example\Csharp\DesignPatterns\SingleTonPattern_2\SingleTonPattern_2\obj\Debug\SingleTonPattern_2.pdb

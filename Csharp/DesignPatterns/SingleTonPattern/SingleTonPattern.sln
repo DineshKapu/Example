@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36128.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleTonPattern", "SingleTonPattern\SingleTonPattern.csproj", "{FD980006-2CA6-4A8B-8FC0-581FB9EAA31D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_2", "Client_2\Client_2.csproj", "{429CFE57-D5FB-4B8B-97EC-706A22B7AD02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD980006-2CA6-4A8B-8FC0-581FB9EAA31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD980006-2CA6-4A8B-8FC0-581FB9EAA31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD980006-2CA6-4A8B-8FC0-581FB9EAA31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD980006-2CA6-4A8B-8FC0-581FB9EAA31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429CFE57-D5FB-4B8B-97EC-706A22B7AD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429CFE57-D5FB-4B8B-97EC-706A22B7AD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429CFE57-D5FB-4B8B-97EC-706A22B7AD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429CFE57-D5FB-4B8B-97EC-706A22B7AD02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029592DE-F0B3-4CBC-B6C9-1037B59B2AA6}
+	EndGlobalSection
+EndGlobal

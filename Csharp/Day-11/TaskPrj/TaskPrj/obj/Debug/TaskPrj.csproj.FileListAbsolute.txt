@@ -1,0 +1,7 @@
+C:\Example\Csharp\Day-11\TaskPrj\TaskPrj\bin\Debug\TaskPrj.exe.config
+C:\Example\Csharp\Day-11\TaskPrj\TaskPrj\bin\Debug\TaskPrj.exe
+C:\Example\Csharp\Day-11\TaskPrj\TaskPrj\bin\Debug\TaskPrj.pdb
+C:\Example\Csharp\Day-11\TaskPrj\TaskPrj\obj\Debug\TaskPrj.csproj.AssemblyReference.cache
+C:\Example\Csharp\Day-11\TaskPrj\TaskPrj\obj\Debug\TaskPrj.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\Day-11\TaskPrj\TaskPrj\obj\Debug\TaskPrj.exe
+C:\Example\Csharp\Day-11\TaskPrj\TaskPrj\obj\Debug\TaskPrj.pdb

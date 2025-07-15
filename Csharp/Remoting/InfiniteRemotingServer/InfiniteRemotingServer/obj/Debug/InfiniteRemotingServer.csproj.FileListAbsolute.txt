@@ -1,0 +1,5 @@
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteRemotingServer\bin\Debug\InfiniteRemotingServer.dll
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteRemotingServer\bin\Debug\InfiniteRemotingServer.pdb
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteRemotingServer\obj\Debug\InfiniteRemotingServer.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteRemotingServer\obj\Debug\InfiniteRemotingServer.dll
+C:\Example\Csharp\Remoting\InfiniteRemotingServer\InfiniteRemotingServer\obj\Debug\InfiniteRemotingServer.pdb

@@ -1,0 +1,11 @@
+C:\Example\Csharp\Day-8\StudentMarkEntryApp\StudentMarkEntryApp\bin\Debug\StudentMarkEntryApp.exe.config
+C:\Example\Csharp\Day-8\StudentMarkEntryApp\StudentMarkEntryApp\bin\Debug\StudentMarkEntryApp.exe
+C:\Example\Csharp\Day-8\StudentMarkEntryApp\StudentMarkEntryApp\bin\Debug\StudentMarkEntryApp.pdb
+C:\Example\Csharp\Day-8\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.csproj.AssemblyReference.cache
+C:\Example\Csharp\Day-8\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.Form1.resources
+C:\Example\Csharp\Day-8\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.Properties.Resources.resources
+C:\Example\Csharp\Day-8\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.csproj.GenerateResource.cache
+C:\Example\Csharp\Day-8\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\Day-8\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.exe
+C:\Example\Csharp\Day-8\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.pdb
+C:\Example\Csharp\Day-8\StudentMarkEntryApp\StudentMarkEntryApp\obj\Debug\StudentMarkEntryApp.Form2.resources

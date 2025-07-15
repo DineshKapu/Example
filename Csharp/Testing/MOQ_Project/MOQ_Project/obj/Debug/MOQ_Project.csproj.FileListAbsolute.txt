@@ -1,0 +1,13 @@
+C:\Example\Csharp\Testing\MOQ_Project\MOQ_Project\bin\Debug\MOQ_Project.dll
+C:\Example\Csharp\Testing\MOQ_Project\MOQ_Project\bin\Debug\MOQ_Project.pdb
+C:\Example\Csharp\Testing\MOQ_Project\MOQ_Project\bin\Debug\Castle.Core.dll
+C:\Example\Csharp\Testing\MOQ_Project\MOQ_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Example\Csharp\Testing\MOQ_Project\MOQ_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Example\Csharp\Testing\MOQ_Project\MOQ_Project\bin\Debug\Castle.Core.xml
+C:\Example\Csharp\Testing\MOQ_Project\MOQ_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Example\Csharp\Testing\MOQ_Project\MOQ_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Example\Csharp\Testing\MOQ_Project\MOQ_Project\obj\Debug\MOQ_Project.csproj.AssemblyReference.cache
+C:\Example\Csharp\Testing\MOQ_Project\MOQ_Project\obj\Debug\MOQ_Project.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\Testing\MOQ_Project\MOQ_Project\obj\Debug\MOQ_Project.csproj.CopyComplete
+C:\Example\Csharp\Testing\MOQ_Project\MOQ_Project\obj\Debug\MOQ_Project.dll
+C:\Example\Csharp\Testing\MOQ_Project\MOQ_Project\obj\Debug\MOQ_Project.pdb

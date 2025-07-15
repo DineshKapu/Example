@@ -1,0 +1,7 @@
+C:\Example\Csharp\DesignPatterns\ConcurrentDictionary_2\ConcurrentDictionary_2\bin\Debug\ConcurrentDictionary_2.exe.config
+C:\Example\Csharp\DesignPatterns\ConcurrentDictionary_2\ConcurrentDictionary_2\bin\Debug\ConcurrentDictionary_2.exe
+C:\Example\Csharp\DesignPatterns\ConcurrentDictionary_2\ConcurrentDictionary_2\bin\Debug\ConcurrentDictionary_2.pdb
+C:\Example\Csharp\DesignPatterns\ConcurrentDictionary_2\ConcurrentDictionary_2\obj\Debug\ConcurrentDictionary_2.csproj.AssemblyReference.cache
+C:\Example\Csharp\DesignPatterns\ConcurrentDictionary_2\ConcurrentDictionary_2\obj\Debug\ConcurrentDictionary_2.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\DesignPatterns\ConcurrentDictionary_2\ConcurrentDictionary_2\obj\Debug\ConcurrentDictionary_2.exe
+C:\Example\Csharp\DesignPatterns\ConcurrentDictionary_2\ConcurrentDictionary_2\obj\Debug\ConcurrentDictionary_2.pdb

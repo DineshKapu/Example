@@ -1,0 +1,7 @@
+C:\Example\Csharp\DependencyInjections\DI_Project_2\DI_Project_2\bin\Debug\DI_Project_2.exe.config
+C:\Example\Csharp\DependencyInjections\DI_Project_2\DI_Project_2\bin\Debug\DI_Project_2.exe
+C:\Example\Csharp\DependencyInjections\DI_Project_2\DI_Project_2\bin\Debug\DI_Project_2.pdb
+C:\Example\Csharp\DependencyInjections\DI_Project_2\DI_Project_2\obj\Debug\DI_Project_2.csproj.AssemblyReference.cache
+C:\Example\Csharp\DependencyInjections\DI_Project_2\DI_Project_2\obj\Debug\DI_Project_2.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\DependencyInjections\DI_Project_2\DI_Project_2\obj\Debug\DI_Project_2.exe
+C:\Example\Csharp\DependencyInjections\DI_Project_2\DI_Project_2\obj\Debug\DI_Project_2.pdb

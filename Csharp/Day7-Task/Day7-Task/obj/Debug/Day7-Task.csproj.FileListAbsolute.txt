@@ -1,0 +1,7 @@
+C:\Example\Csharp\Day7-Task\Day7-Task\bin\Debug\Day7-Task.exe.config
+C:\Example\Csharp\Day7-Task\Day7-Task\bin\Debug\Day7-Task.exe
+C:\Example\Csharp\Day7-Task\Day7-Task\bin\Debug\Day7-Task.pdb
+C:\Example\Csharp\Day7-Task\Day7-Task\obj\Debug\Day7-Task.csproj.AssemblyReference.cache
+C:\Example\Csharp\Day7-Task\Day7-Task\obj\Debug\Day7-Task.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\Day7-Task\Day7-Task\obj\Debug\Day7-Task.exe
+C:\Example\Csharp\Day7-Task\Day7-Task\obj\Debug\Day7-Task.pdb

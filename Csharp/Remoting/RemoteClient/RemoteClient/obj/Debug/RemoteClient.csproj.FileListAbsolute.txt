@@ -1,0 +1,9 @@
+C:\Example\Csharp\Remoting\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe.config
+C:\Example\Csharp\Remoting\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe
+C:\Example\Csharp\Remoting\RemoteClient\RemoteClient\bin\Debug\RemoteClient.pdb
+C:\Example\Csharp\Remoting\RemoteClient\RemoteClient\bin\Debug\InfiniteRemotingServer.dll
+C:\Example\Csharp\Remoting\RemoteClient\RemoteClient\bin\Debug\InfiniteRemotingServer.pdb
+C:\Example\Csharp\Remoting\RemoteClient\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+C:\Example\Csharp\Remoting\RemoteClient\RemoteClient\obj\Debug\RemoteClient.csproj.CopyComplete
+C:\Example\Csharp\Remoting\RemoteClient\RemoteClient\obj\Debug\RemoteClient.exe
+C:\Example\Csharp\Remoting\RemoteClient\RemoteClient\obj\Debug\RemoteClient.pdb
